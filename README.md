@@ -1,3 +1,3 @@
 link al Deploy
 
-https://raimerag.github.io/arreglos.github.io/
+https://raimerag.github.io/InmobiliariaADL/
